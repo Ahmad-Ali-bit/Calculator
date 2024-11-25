@@ -1,7 +1,7 @@
 # calculator
-## this is a code for advanced calculator which i have made in ICT lab. It has many functions which are given below.
+###this is a code for advanced calculator which i have made in ICT lab. It has many functions which are given below.
 # Features
-## 1) Add
+### 1) Add
 ## 2) Subtract
 ## 3) Divide
 ## 4) Multiply
